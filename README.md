@@ -6,4 +6,4 @@ Input data can be found in [/data](https://github.com/slowikj/bioinf-CpG-methyla
 
 Results can be found in [/results](https://github.com/slowikj/bioinf-CpG-methylation/tree/master/results)
 
-Complete solution can be found in [report.ipynb)(https://github.com/slowikj/bioinf-CpG-methylation/blob/master/report.ipynb)
+Complete solution can be found in [report.ipynb](https://github.com/slowikj/bioinf-CpG-methylation/blob/master/report.ipynb)
